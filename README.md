@@ -1,6 +1,6 @@
-# 💻 Modelo de Machine Learning para la Predicción de Cancelación de Clientes y Segmentación por Clústeres
-Este proyecto aborda el problema de la pérdida de clientes (churn) en un gimnasio mediante el uso de técnicas de machine learning y análisis de datos. La cancelación se define como la inactividad del cliente durante un mes. 
-A partir de datos demográficos, contractuales y de comportamiento, se desarrolló un modelo predictivo para estimar la probabilidad de cancelación y se aplicó un análisis de clústeres para segmentar a los usuarios, con el fin de diseñar estrategias de retención más efectivas.
+# 💻 Modelo de Machine Learning para la Predicción de Cancelación de Clientes y Segmentación por Clusters
+En este proyecto abordé el problema de la pérdida de clientes (churn) en un gimnasio mediante el uso de técnicas de machine learning y análisis de datos.
+A partir de datos demográficos, contractuales y de comportamiento, se desarrolló un modelo predictivo para estimar la probabilidad de cancelación y se aplicó un análisis de *clusters* para segmentar a los usuarios, con el fin de diseñar estrategias de retención más efectivas.
 
 ## 🎯 Objetivos
 
@@ -25,5 +25,5 @@ Las estrategias de retención deben enfocarse prioritariamente en los clústeres
 * NumPy
 * Matplotlib
 * Seaborn
-* scikit-learn
+* Scikit-learn
 * Jupyter Notebook
