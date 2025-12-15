@@ -1,6 +1,7 @@
 # 💻 Modelo de Machine Learning para la Predicción de Cancelación de Clientes y Segmentación por Clusters
-En este proyecto abordé el problema de la pérdida de clientes (churn) en un gimnasio mediante el uso de técnicas de machine learning y análisis de datos.
-A partir de datos demográficos, contractuales y de comportamiento, se desarrolló un modelo predictivo para estimar la probabilidad de cancelación y se aplicó un análisis de *clusters* para segmentar a los usuarios, con el fin de diseñar estrategias de retención más efectivas.
+En este proyecto abordé el problema de la pérdida de clientes (churn) en un gimnasio mediante el uso de técnicas de ***machine learning***. A partir de datos demográficos, contractuales y de comportamiento, se desarrolló un modelo predictivo para estimar la probabilidad de cancelación y se aplicó un ***análisis de clusters*** para segmentar a los usuarios, con el fin de diseñar estrategias de retención más efectivas. 
+
+Los resultados del análisis se visualizaron a través de un dashboard interactivo desarrollado en Power BI, facilitando la exploración de los *clusters*.
 
 ## 🎯 Objetivos
 
@@ -8,6 +9,10 @@ A partir de datos demográficos, contractuales y de comportamiento, se desarroll
 * Identificar segmentos de clientes con características y comportamientos similares usando técnicas de clustering.
 * Analizar los factores que tienen mayor impacto en la cancelación.
 * Proponer recomendaciones estratégicas orientadas a la retención de clientes.
+
+## 📈 Análisis de clusters: las 4 variables más relacionadas con churn
+![alt text](dashboard.png)
+
 
 ## 📈 Hallazgos Clave
 
